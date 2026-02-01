@@ -19,7 +19,7 @@ phantomspammerbanner = f"""{Fore.BLUE}
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
                     made by @rp9y  
     github: https://github.com/rp9y/                                                                             
-   discord: @rp9y  
+    discord: @rp9y  
    
        DM TO BUY MORE MULTITOOLS WITH MORE FUNCTIONS                                                                              
 """
